@@ -1,4 +1,4 @@
-![](./assets/images/banner.png)
+![](./assets/image/banner.png)
 
 ModularMinds is a [Streamlit](https://streamlit.io/) application that allows users to interact with hugchat
 
