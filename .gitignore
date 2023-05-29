@@ -1,0 +1,8 @@
+src/models/7B/*
+src/models/LLAMA/13B/*
+src/models/LLAMA/7B/*
+src/models/LLAMA/30B/*
+src/models/LLAMA/65B/*
+src/models/checklist.chk
+src/models/tokenizer.model
+assets/cookies.json
