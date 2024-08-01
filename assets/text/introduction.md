@@ -1,1 +1,0 @@
-ModularMinds is an exciting and dynamic chatbot project built using the Streamlit framework. This open-source repository serves as a home for a versatile and customizable chatbot application, empowering users to participate in interactive conversations while exploring a wide range of personalities and models.
