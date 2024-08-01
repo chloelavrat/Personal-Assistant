@@ -2,3 +2,5 @@ streamlit
 streamlit-chat
 streamlit-extras
 hugchat
+openai-whisper @ git+https://github.com/openai/whisper.git
+yt-dlp
