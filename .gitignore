@@ -8,3 +8,4 @@ src/models/tokenizer.model
 assets/cookies.json
 .venv/*
 cookies/*
+__pycache__/*
